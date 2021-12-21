@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import Book from "./Book.js";
-
 class BookShelf extends Component {
   render() {
     return (
